@@ -1,0 +1,8 @@
+#ifndef _pathconfig_h
+#define _pathconfig_h
+
+#include <string>
+
+const std::string shaders_folder{"@STUDENTS_FOLDER@/cvetkovski/shaders/"};
+const std::string images_folder{"@STUDENTS_FOLDER@/cvetkovski/images/"};
+#endif
